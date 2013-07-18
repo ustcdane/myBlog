@@ -27,3 +27,5 @@ http://localhost:5555/blog/admin/ 注意根据需要修改访问权限。
 我在自己的机器上用nginx搭建的，具体可以参考我的博客中的方法。
 
 sudo service nginx restart sudo uwsgi -x uwsgi_config.xml --daemonize /tmp/uwsgi.err.log
+
+声明，本博客源码并非原创，原作者未详。 其中部分已进行修改。
