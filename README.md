@@ -1,9 +1,8 @@
 myBlog
 ======
 
-blog code, python/flask
-
-
+blog code, 基于python/flask web框架
+ 
 个人博客。
 
 Download
@@ -11,6 +10,7 @@ Download
 $ git clone https://github.com/ustcdane/myBlog
 
 Quick Start
+创建数据库为 data.py(mysql), 注意数据库编码。
 
 配置数据库连接参数：config.py 创建table
 
