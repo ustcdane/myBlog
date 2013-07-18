@@ -8,7 +8,7 @@ blog code, python/flask
 
 Download
 
-$ git clone https://github.com/ustcdane/daniel_blog
+$ git clone https://github.com/ustcdane/myBlog
 
 Quick Start
 
