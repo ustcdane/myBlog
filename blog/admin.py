@@ -64,7 +64,7 @@ class MyModelView(ModelView):#ModelView
     # add 
 
 
-admin = Admin(app, url='/blog/admin_daniel')
+admin = Admin(app, url='/blog/admin')
 # add by wang
 
 
